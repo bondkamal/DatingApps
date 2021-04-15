@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1060086020483",
+    "project_id": "datingapp-c656f",
+    "storage_bucket": "datingapp-c656f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060086020483:android:029090b65ccddceeda1eb6",
+        "android_client_info": {
+          "package_name": "com.mypocketfriend.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060086020483-0e2n3c60qdm15o2nk7cp76pam55lvcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1M_nYuiixQAHkh00ZEGb2DH5YAK_NMM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060086020483-0e2n3c60qdm15o2nk7cp76pam55lvcao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060086020483:android:234e042c7552737eda1eb6",
+        "android_client_info": {
+          "package_name": "com.onestopsolution.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060086020483-3tppmdpp1uphimqkojvqne80p5bcrj3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onestopsolution.dating",
+            "certificate_hash": "e22a1ec702fa138516b6b1900bb5d082d932f39c"
+          }
+        },
+        {
+          "client_id": "1060086020483-0e2n3c60qdm15o2nk7cp76pam55lvcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1M_nYuiixQAHkh00ZEGb2DH5YAK_NMM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060086020483-0e2n3c60qdm15o2nk7cp76pam55lvcao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
