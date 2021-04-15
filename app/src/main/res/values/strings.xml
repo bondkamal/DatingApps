@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dating</string>
     <string name="hello_kamli">Hello Kamli</string>
+    <string name="comment">Comment</string>
 </resources>

@@ -10,4 +10,5 @@
     <color name="colorPrimary">#FFF</color>
     <color name="colorPrimaryDark">#FFF</color>
     <color name="red">#FF0000</color>
+    <color name="title_color">#FF9800</color>
 </resources>

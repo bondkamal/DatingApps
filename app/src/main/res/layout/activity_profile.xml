@@ -156,27 +156,28 @@
             >
 
             <LinearLayout
+                android:id="@+id/my_level"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="My Level"
-                    android:textSize="18sp"
-                    android:textColor="#000"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="5dp"
-                    />
+                    android:text="My Level"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Mile/Lv.2"
-                    android:textSize="18sp"
-                    android:textColor="#000"
                     android:layout_marginLeft="200dp"
                     android:layout_marginTop="5dp"
-                    />
+                    android:text="Mile/Lv.2"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
 
             </LinearLayout>
 
@@ -332,7 +333,7 @@
                 android:background="?android:attr/listDivider" />
 
             <LinearLayout
-                android:id="@+id/linearlayout_7"
+                android:id="@+id/profile_following_layout"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/linearlayout_3"
@@ -377,27 +378,29 @@
             >
 
             <LinearLayout
+                android:id="@+id/start_wallet"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Star Wallet"
-                    android:textSize="18sp"
-                    android:textColor="#000"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="5dp"
-                    />
+                    android:text="Star Wallet"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="0"
-                    android:textSize="18sp"
-                    android:textColor="#000"
                     android:layout_marginLeft="190dp"
                     android:layout_marginTop="5dp"
-                    />
+                    android:text="0"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
                 <ImageView
                     android:layout_width="36dp"
                     android:layout_height="36dp"
@@ -416,7 +419,7 @@
                 android:background="?android:attr/listDivider" />
 
             <LinearLayout
-                android:id="@+id/linearlayout_9"
+                android:id="@+id/diamond_store"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/linearlayout_3"
